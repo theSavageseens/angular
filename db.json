@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "fancy red hat ami pig",
+      "description": "This is a dangerous ami pig with a small red hat",
+      "imageUrl": "https://raw.githubusercontent.com/theSavageseens/Pics/master/ami1.jpg",
+      "price": 99
+    },
+    {
+      "id": 2,
+      "name": "fancy red hat ami pig2",
+      "description": "This is a fat ami pig with a small red hat and shocked by the camera man",
+      "imageUrl": "https://raw.githubusercontent.com/theSavageseens/Pics/master/ami2.jpg",
+      "price": 99
+    },
+    {
+      "id": 3,
+      "name": "fancy ami eat melon pig",
+      "description": "This is a dangerous ami pig who eat a melon and hide her self",
+      "imageUrl": "https://raw.githubusercontent.com/theSavageseens/Pics/master/ami3.jpg",
+      "price": 29
+    },
+    {
+      "id": 4,
+      "name": "fancy ami alien pig",
+      "description": "This is a dangerous ami pig which I do not know how to describe",
+      "imageUrl": "https://raw.githubusercontent.com/theSavageseens/Pics/master/ami4.jpg",
+      "price": 19
+    },
+    {
+      "id": 5,
+      "name": "fancy ami shocked pig",
+      "description": "This is a wild dangerous ami pig who has been shot by someone",
+      "imageUrl": "https://raw.githubusercontent.com/theSavageseens/Pics/master/ami5.jpg",
+      "price": 19
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 2,
+        "name": "fancy red hat ami pig2",
+        "description": "This is a fat ami pig with a small red hat and shocked by the camera man",
+        "imageUrl": "https://raw.githubusercontent.com/theSavageseens/LSTM-autoencoder/master/ami2.jpg",
+        "price": 199
+      },
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
